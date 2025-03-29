@@ -1,0 +1,84 @@
+code,industry,category
+0,"Not in universe","Not in Universe"
+1,"Crop production",Agriculture
+2,"Animal production and aquaculture",Agriculture
+3,"Forestry and logging",Agriculture
+4,"Fishing, hunting, and trapping",Agriculture
+5,"Support activities for agriculture and forestry",Agriculture
+6,"Oil and gas extraction",Mining
+7,"Mining (except oil and gas)",Mining
+8,"Support activities for mining",Mining
+9,Utilities,Utilities
+10,Construction,Construction
+11,"Food manufacturing",Manufacturing
+12,"Beverage and tobacco product manufacturing",Manufacturing
+13,"Textile mills",Manufacturing
+14,"Textile product mills",Manufacturing
+15,"Apparel manufacturing",Manufacturing
+16,"Leather and allied product manufacturing",Manufacturing
+17,"Wood product manufacturing",Manufacturing
+18,"Paper manufacturing",Manufacturing
+19,"Printing and related support activities",Manufacturing
+20,"Petroleum and coal products manufacturing",Manufacturing
+21,"Chemical manufacturing",Manufacturing
+22,"Plastics and rubber products manufacturing",Manufacturing
+23,"Nonmetallic mineral product manufacturing",Manufacturing
+24,"Primary metal manufacturing",Manufacturing
+25,"Fabricated metal product manufacturing",Manufacturing
+26,"Machinery manufacturing",Manufacturing
+27,"Computer and electronic product manufacturing",Manufacturing
+28,"Electrical equipment, appliance, and component manufacturing",Manufacturing
+29,"Transportation equipment manufacturing",Manufacturing
+30,"Furniture and related product manufacturing",Manufacturing
+31,"Miscellaneous manufacturing",Manufacturing
+32,"Merchant wholesalers, durable goods","Wholesale and Retail Trade"
+33,"Merchant wholesalers, nondurable goods","Wholesale and Retail Trade"
+34,"Non-specified wholesale trade","Wholesale and Retail Trade"
+35,"Motor vehicle and parts dealers","Wholesale and Retail Trade"
+36,"Furniture and home furnishings stores","Wholesale and Retail Trade"
+37,"Electronic and appliance stores","Wholesale and Retail Trade"
+38,"Building material and garden equipment and supplies dealers","Wholesale and Retail Trade"
+39,"Food and beverage stores","Wholesale and Retail Trade"
+40,"Health and personal care stores","Wholesale and Retail Trade"
+41,"Gasoline stations","Wholesale and Retail Trade"
+42,"Clothing, shoe, jewelry, luggage, and leather goods stores","Wholesale and Retail Trade"
+43,"Sporting goods, camera, hobby, book and music stores","Wholesale and Retail Trade"
+44,"General merchandise stores","Wholesale and Retail Trade"
+45,"Miscellaneous store retailers","Wholesale and Retail Trade"
+46,"Nonstore retailers and non-specified retail trade","Wholesale and Retail Trade"
+47,"Transportation (including support activities for transportation)","Transportation and Warehousing"
+48,"Postal service, couriers, and messengers","Transportation and Warehousing"
+49,"Warehousing and storage","Transportation and Warehousing"
+50,"Newspaper, periodical, book, and software publishing industries",Information
+51,"Motion picture, video, and sound recording industries",Information
+52,"Broadcasting and telecommunications",Information
+53,"Libraries and archives, internet publishing, web search portals, data processing and hosting services, and other information services",Information
+54,"Monetary authorities - central bank","Finance and Insurance"
+55,"Credit intermediation and related activities","Finance and Insurance"
+56,"Securities, commodity contracts, and other financial investments and related activities","Finance and Insurance"
+57,"Insurance carriers and related activities","Finance and Insurance"
+58,"Real estate","Real Estate and Rental and Leasing"
+59,"Automotive and other consumer goods rental and leasing services","Real Estate and Rental and Leasing"
+60,"Commercial, industrial, and other intangible assets (except copyrighted works)","Real Estate and Rental and Leasing"
+61,"Professional, scientific, and technical services industries",Services
+62,"Management of companies and enterprises industries",Services
+63,"Administrative, support, waste management, and remediation services",Services
+64,"Education services",Services
+65,"Ambulatory health care services",Services
+66,Hospitals,Services
+67,"Nursing and residential care facilities",Services
+68,"Social assistance",Services
+69,"Performing arts, spectator sports, promoters, agents, artists, writers and related industries",Services
+70,"Museums, historical sites, and similar institutions",Services
+71,"Amusement, gambling, and recreation industries",Services
+72,Accommodation,Services
+73,"Food services and drinking places",Services
+74,"Repair and maintenance",Services
+75,"Personal services (barber shops, beauty salons, nail salons, laundry, funeral homes and cemeteries)",Services
+76,"Religious, grantmaking, civic, labor, professional, and similar organizations",Services
+77,"Private households",Services
+78,"Public administration","Public Administration"
+79,"Armed forces","Armed Forces"
+97,"Refused, classified, etc.","Unknown Industry"
+98,"Not ascertained","Unknown Industry"
+99,"Don't know","Unknown Industry"
